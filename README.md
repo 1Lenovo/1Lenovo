@@ -1,5 +1,7 @@
 <div align="center">
-  
+
+![Banner](https://cdn.discordapp.com/attachments/1464959829461172479/1466232090478776370/grok_video_2026-01-28-19-41-36.mp4?ex=697bfe8b&is=697aad0b&hm=2583c2cb73389759773336acf18201eed13c43a0e1e7398ac0b36af37cf37ac1&)
+
 # 👋 ¡Hola! Soy 1Lenovo (Carrillo)
 
 ### 💻 Desarrollador Full Stack | Apasionado por la tecnología
