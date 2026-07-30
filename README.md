@@ -4,9 +4,9 @@
 
 # 👋 ¡Hola! Soy Xarri (Carrillo)
 
-### 💻 Desarrollador Full Stack | Apasionado por la tecnología
+### 💻 Desarrollador Full Stack 
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1Lenovo)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_xarry_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseguadalupe1401@gmail.com)
 
 </div>
