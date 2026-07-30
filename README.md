@@ -1,8 +1,6 @@
 <div align="center">
 
-![Banner](https://cdn.discordapp.com/attachments/1482630585510793270/1482962231330344991/1Lenovo_20260315_234201_0000.png?ex=69b8dbb4&is=69b78a34&hm=4e8c79f3791b2e195e7b6a3f4098dfe9acfe2b8aa2ab33b7a883e7b71c0d5ead&)
-
-# 👋 ¡Hola! Soy Xarri (Carrillo)
+# 👋 ¡Hola! Soy Xarry (Carrillo)
 
 ### 💻 Desarrollador Full Stack 
 
@@ -53,14 +51,13 @@ Desarrollador con experiencia en desarrollo web, bots de Discord y desarrollo de
 
 ¿Tienes algún proyecto en mente o quieres colaborar? ¡No dudes en contactarme!
 
-- 💬 **Discord:** Xarri
+- 💬 **Discord:** Xarry
 - 📧 **Gmail:** xarri.contact@gmail.com
 
 ---
 
 <div align="center">
   
-### ⭐ Si te gusta mi trabajo, no olvides dar una estrella a mis repositorios
 
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=18xLenovo.18xLenovo)
 
